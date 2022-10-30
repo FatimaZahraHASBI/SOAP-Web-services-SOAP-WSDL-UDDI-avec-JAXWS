@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # SOAP ---> [compte rendu](https://github.com/FatimaZahraHASBI/micro-services/blob/master/SOAP/SOAP%20TD1%20HASBI.pdf)
 Web services SOAP, WSDL, UDDI avec JAXWS
 
@@ -10,3 +11,7 @@ Web services SOAP, WSDL, UDDI avec JAXWS
  &ensp;&ensp;● Consultation et analyse du WSDL avec un Browser HTTP <br />
  &ensp;&ensp;● Test des opérations du web service avec SoapUI <br />
  &ensp;&ensp;● Création d'un Client SOAP Java <br />
+=======
+# SOAP-Web-services-SOAP-WSDL-UDDI-avec-JAXWS
+SOAP : Web services SOAP, WSDL, UDDI avec JAXWS
+>>>>>>> 928087192451d47532726cab239570fa758644c7
