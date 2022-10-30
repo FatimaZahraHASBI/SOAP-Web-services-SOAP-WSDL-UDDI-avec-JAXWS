@@ -1,7 +1,8 @@
-<<<<<<< HEAD
- # SOAP ---> [compte rendu](https://github.com/FatimaZahraHASBI/micro-services/blob/master/SOAP/SOAP%20TD1%20HASBI.pdf)
-Web services SOAP, WSDL, UDDI avec JAXWS
-
+# Web services SOAP, WSDL, UDDI avec JAXWS
+## --> [compte rendu](https://github.com/FatimaZahraHASBI/micro-services/blob/master/SOAP/SOAP%20TD1%20HASBI.pdf)
+## Implémentation
+##  &ensp;&ensp;&ensp;&ensp;[Web service](https://github.com/FatimaZahraHASBI/SOAP-Web-services-SOAP-WSDL-UDDI-avec-JAXWS/tree/master/ws1)
+##  &ensp;&ensp;&ensp;&ensp;[Client](https://github.com/FatimaZahraHASBI/SOAP-Web-services-SOAP-WSDL-UDDI-avec-JAXWS/tree/master/client-1)
 
  &ensp;&ensp;● Création d'un Web service qui permet de <br />
  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;• Convertir un montant de l’auro en DH<br />
@@ -11,7 +12,3 @@ Web services SOAP, WSDL, UDDI avec JAXWS
  &ensp;&ensp;● Consultation et analyse du WSDL avec un Browser HTTP <br />
  &ensp;&ensp;● Test des opérations du web service avec SoapUI <br />
  &ensp;&ensp;● Création d'un Client SOAP Java <br />
-=======
-# SOAP-Web-services-SOAP-WSDL-UDDI-avec-JAXWS
-SOAP : Web services SOAP, WSDL, UDDI avec JAXWS
->>>>>>> 928087192451d47532726cab239570fa758644c7
